@@ -1,9 +1,3 @@
-İstediğin çalışmayı hazırladım. Securelic'in sunduğu araçları ve özellikleri, verdiğin Github örneklerindeki (hostedscan) formata uygun şekilde, İngilizce ve Markdown dilinde düzenledim.
-
-Aşağıdaki içeriği doğrudan bir `README.md` dosyası olarak Github'da paylaşabilirsin:
-
----
-
 # Securelic Vulnerability Scanners List
 
 A comprehensive list of security scanners and tools provided by [Securelic](https://securelic.com) for securing networks, servers, web applications, and APIs.
