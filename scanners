@@ -1,0 +1,44 @@
+İstediğin çalışmayı hazırladım. Securelic'in sunduğu araçları ve özellikleri, verdiğin Github örneklerindeki (hostedscan) formata uygun şekilde, İngilizce ve Markdown dilinde düzenledim.
+
+Aşağıdaki içeriği doğrudan bir `README.md` dosyası olarak Github'da paylaşabilirsin:
+
+---
+
+# Securelic Vulnerability Scanners List
+
+A comprehensive list of security scanners and tools provided by [Securelic](https://securelic.com) for securing networks, servers, web applications, and APIs.
+
+## Overview
+
+Securelic is an open-source powered vulnerability scanner designed to help organizations discover their attack surface, scan for CVEs, and manage security risks through automated workflows.
+
+## Scanners & Features
+
+| Scanner Name | Description | Key Features |
+| --- | --- | --- |
+| **Attack Surface Discovery** | Continuously maps external footprints. | Subdomain identification, live service detection, open port mapping, and technology fingerprinting. |
+| **Network & Infrastructure Scanner** | Scans servers and network assets for weaknesses. | Multi-layer scanning, detection of misconfigurations, and identification of outdated components. |
+| **Web Application Scanner (DAST)** | Automated penetration testing for modern web apps. | Detects injection flaws, broken authentication, insecure redirects, and XSS. |
+| **API Security Scanner** | Specialized testing for REST and GraphQL APIs. | Analysis of API endpoints, validation of input fields, and detection of logical vulnerabilities. |
+| **CVE & Vulnerability Engine** | Deep engine for identifying known exposures. | Scans for critical CVEs, runtime flaws, and zero-day exposures using updated databases. |
+| **SSL/TLS & Certificate Analyzer** | Evaluates the health of cryptographic setups. | Certificate expiration tracking, protocol version checks (TLS 1.2/1.3), and cipher strength analysis. |
+| **Compliance Validator** | Maps findings to global security standards. | Provides insights aligned with GDPR, HIPAA, PCI DSS, and ISO 27001. |
+| **Continuous Pentesting** | Automated and ongoing security validation. | Integration with DevSecOps, real-time threat monitoring, and automated regression testing. |
+
+## Technical Capabilities
+
+* **Advanced Fingerprinting:** Identifies tech stacks and service versions automatically.
+* **Actionable Reporting:** Generates detailed reports with risk prioritization and remediation guidance.
+* **Real-time Monitoring:** Continuously tracks infrastructure changes and security header regressions.
+* **Open Source Core:** Powered by industry-standard open-source security engines.
+
+## Integration & Deployment
+
+Securelic is designed to fit into modern development pipelines:
+
+* **SaaS / Cloud-native:** No complex on-premise setup required.
+* **DevSecOps Ready:** Automated triggers for continuous security.
+
+---
+
+*For more information, visit the official website: [securelic.com*](https://securelic.com)
