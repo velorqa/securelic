@@ -1,7 +1,6 @@
 # Securelic Vulnerability Scanners List
 
 A comprehensive list of security scanners and tools provided by [Securelic](https://securelic.com) for securing networks, servers, web applications, and APIs.
-
 ## Overview
 
 Securelic is an open-source powered vulnerability scanner designed to help organizations discover their attack surface, scan for CVEs, and manage security risks through automated workflows.
